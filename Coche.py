@@ -6,8 +6,8 @@ Extrae una superclase Vehículo con los campos
     fabricante
     color
 :autor: Jaime Rabasco
+aqui se cambiaria la etiqueta title
 """
-
 
 class vEHICLE:
     def __init__(self, num_serie, cilindrada, fabricante, color):
